@@ -1,0 +1,54 @@
+body{
+    background: url(https://images4.alphacoders.com/624/624687.jpg);
+  }
+h1{
+    text-align: center;
+    color:white;
+    padding-top: 6%;
+    font-size: 25px;
+  
+  }
+
+
+label{
+    color :white;
+
+}  
+h3{
+    text-align: center;
+    color:white;
+    font-family: Serif;
+    padding-top: 2%;
+    font-size: 20px;
+  }
+#special{
+    padding-bottom: 2%;
+}
+
+
+form{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+  }
+  #sbmit{
+    padding: 15px 32px;
+    text-shadow: 50px;
+    font-weight: bolder;
+    background-color: green;
+    border-radius: 12px;
+  }
+.welcome-text a{
+    border: 1px solid #ff0000;
+    padding: 10px 25px;
+    font-size: 14px;
+    margin-top: 20px;
+    color: black;
+  }
+.welcome-text a:hover{
+    padding: 15px 32px;
+    text-shadow: 50px;
+    font-weight: bolder;
+    background-color: green;
+    border-radius: 12px;
+  }

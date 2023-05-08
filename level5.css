@@ -1,0 +1,65 @@
+body{
+    background: url(https://tse4.mm.bing.net/th?id=OIP.jwR_yFN-SbM_-BpvDc-yhgHaDj&pid=Api&P=0)
+}
+h1{
+    text-align: center;
+    color:black;
+    padding-top: 6%;
+    font-size: 25px;
+  
+  }
+
+
+label{
+    color :black;
+
+}  
+h2{
+    text-align: center;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 2%;
+    font-size: 20px;
+  }
+
+h4{
+text-align:center;
+} 
+ 
+#special{
+    padding-bottom: 2%;
+}
+p{
+    color:black;
+    text-align:center
+   
+
+}
+
+
+form{
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+  }
+  #sbmit{
+    padding: 15px 32px;
+    text-shadow: 50px;
+    font-weight: bolder;
+    background-color: green;
+    border-radius: 12px;
+  }
+.welcome-text a{
+    border: 1px solid #ff0000;
+    padding: 10px 25px;
+    font-size: 14px;
+    margin-top: 20px;
+    color: black;
+  }
+.welcome-text a:hover{
+    padding: 15px 32px;
+    text-shadow: 50px;
+    font-weight: bolder;
+    background-color: green;
+    border-radius: 12px;
+  }
