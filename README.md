@@ -49,7 +49,8 @@ ScreenShot
  
  
  **Deployed with Netify and link for Website:**
-  https://starlit-cassata-cb054f.netlify.app/
+  https://vocal-puppy-3cd71c.netlify.app/
+
  
  
  
